@@ -21,7 +21,7 @@ const config = {
     facebook: '',
     instagram: '',
     tiktok: '',
-    email: '',
+    email: 'hello@gmail.com',
     website: '',
     // dev: '',~
     // twitter: '',
